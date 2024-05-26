@@ -2,6 +2,8 @@
 
 This repo contains a collection of scripts that automate daily tasks for Apple Shortcuts.
 
+> This repo is a rebrand of the original at https://github.com/cinaq/reminders2calendar to reflect the broader scope of the scripts.
+
 ## Installation
 
 Shortcuts are designed to be called by another shortcut that you must create. This design decision was made to allow for easier upgrades in the future. This means you should avoid changing the Shortcut imported from this repo.
