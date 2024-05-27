@@ -17,6 +17,6 @@ The EgymFromPhoto shortcut is meant to load in existing measurements from a phot
 
 ## Latest iCloud Links
 
-- EGym2Health: https://www.icloud.com/shortcuts/cb7f7dc891094357b27ba06b3b62e4f3
+- EGym2Health: https://www.icloud.com/shortcuts/c5b12a25770a46d493a4d0737f4d55ba
 - EgymFromCamera: https://www.icloud.com/shortcuts/81cac5beb4d744f384277145eaffff54
 - EgymFromPhoto: https://www.icloud.com/shortcuts/6161d641b46548ea9d8e9b328fb3fd4d
