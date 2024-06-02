@@ -3,6 +3,8 @@
 
 [Egym Fitness Hub](https://egym.com/us/workouts/fitness-hub) measures your fitness level with metrics like body fat, muscle mass, and more. This shortcut automates the process of entering your fitness data into the Health app.
 
+![Egym Fitness Hub Demo](demo.mp4)
+
 ## Usage
 
 - Login to Egym Fitness Hub
@@ -17,6 +19,7 @@ The EgymFromPhoto shortcut is meant to load in existing measurements from a phot
 
 ## Latest iCloud Links
 
-- EGym2Health: https://www.icloud.com/shortcuts/c5b12a25770a46d493a4d0737f4d55ba
+- EGym2Health: https://www.icloud.com/shortcuts/37cb830094bf497b9d576391d0ac92aa
 - EgymFromCamera: https://www.icloud.com/shortcuts/81cac5beb4d744f384277145eaffff54
 - EgymFromPhoto: https://www.icloud.com/shortcuts/6161d641b46548ea9d8e9b328fb3fd4d
+- CalculateBMI: https://www.icloud.com/shortcuts/1b36ffea82c44450b7b588d518ae242f
