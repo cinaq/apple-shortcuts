@@ -3,7 +3,7 @@
 
 [Egym Fitness Hub](https://egym.com/us/workouts/fitness-hub) measures your fitness level with metrics like body fat, muscle mass, and more. This shortcut automates the process of entering your fitness data into the Health app.
 
-![Egym Fitness Hub Demo](demo.mp4)
+<video src="https://github.com/cinaq/apple-shortcuts/raw/main/EgymFitnessHub2Health/demo.mp4"></video>
 
 ## Usage
 
